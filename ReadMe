@@ -12,15 +12,4 @@ Inputs Resume or Search Term
 Search Relevant Job for each Job that are result of Search
 Export the Shortlisted Job to 'Jobs_Shortlist.csv'
 ***********************************
-FILE:Compensation Dataset.xlsx
-DESCRIPTION:
-Compensation Data Scrapped from Craiglist and manually labelled into different Categories
-***********************************
-FILE:Jobs_Final.csv
-DESCRIPTION:
-Scapped Data from Craiglist
-***********************************
-FILE:Jobs_Shortlist.csv
-DESCRIPTION:
-Final Job listing
-***********************************
+
